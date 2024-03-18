@@ -132,7 +132,7 @@
         height: 96vh;
         margin-bottom: 0;
     }
-    article{
+    .article{
         font-size: 2rem;
     }
     footer nav{
@@ -149,6 +149,13 @@
         text-align: center;
         padding-top: 1rem;
         margin-top: 0rem;
+    }
+    
+    section#experience .experience-details-container{
+        margin-left: 3rem;
+        margin-right: 3rem;
+        
+        
     }
 }
 
